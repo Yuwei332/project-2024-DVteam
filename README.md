@@ -3,7 +3,7 @@
 | Student's name | SCIPER |
 | -------------- | ------ |
 |Yuwei Liu |368625 |
-| | |
+|Pablo Soto |383334 |
 | | |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
