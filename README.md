@@ -21,8 +21,11 @@ Please, fill the following sections about your project.
 
 #### NBA 2023 Player Performance Dataset
 
-We have selected the performance data of popular NBA players during the 2023 season as our dataset. This dataset comprises crucial information such as the number of shot attempts, timing, distance, and scoring data. The source databases we have referred to are available at:
+We have selected the performance data of popular NBA players during the 2023 season as our dataset. This dataset comprises crucial information such as the number of shot attempts, timing, distance, and scoring data. The source databases we have referred to are shown below:
 
+Player Shots Analysis: In-Depth Insights and Performance in 2023: [NBA 2023 Player Shot Dataset](https://www.kaggle.com/datasets/dhavalrupapara/nba-2023-player-shot-dataset)
+
+Player's performance information: [Basketball Reference](https://www.basketball-reference.com/)
 [https://www.kaggle.com/datasets/dhavalrupapara/nba-2023-player-shot-dataset](https://www.kaggle.com/datasets/dhavalrupapara/nba-2023-player-shot-dataset)
 
 We have meticulously processed this data into a visual format to provide a clearer understanding of the strengths exhibited by the players.
