@@ -28,7 +28,7 @@ Player Shots Analysis: In-Depth Insights and Performance in 2023: [NBA 2023 Play
 Player's performance information: [Basketball Reference](https://www.basketball-reference.com/)
 [https://www.kaggle.com/datasets/dhavalrupapara/nba-2023-player-shot-dataset](https://www.kaggle.com/datasets/dhavalrupapara/nba-2023-player-shot-dataset)
 
-We have meticulously processed this data into a visual format to provide a clearer understanding of the strengths exhibited by the players.
+We'll meticulously processe this data into a visual format to provide a clearer understanding of the strengths exhibited by the players.
 
 ### Problematic
 
