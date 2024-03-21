@@ -19,7 +19,7 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-> # NBA 2023 Player Performance Dataset
+> #### NBA 2023 Player Performance Dataset
 
 We chose the performance of popular NBA players during the 2023 season as the dataset. The data includes information such as number of shot attempts, time, distance, and score. The databases we refer to are as follows:
 
@@ -30,9 +30,16 @@ We processed this data into a visual form to give a clearer picture of the playe
 
 ### Problematic
 
-> Frame the general topic of your visualization and the main axis that you want to develop.
-> - What am I trying to show with my visualization?
-> - Think of an overview for the project, your motivation, and the target audience.
+The NBA is one of the hottest sports events around the world, featuring numerous outstanding athletes. However, despite the abundance of performance data available online, it often suffers from the following issues:
+
+1. **Incomplete Data Processing:** Many datasets remain unprocessed, lacking systematic organization and analysis, and thus fail to provide comprehensive insights into athlete performance.
+
+2. **Poor Data Visualization:** While some athlete performance data has been processed, the methods employed are often simplistic, resulting in charts with poor image clarity. This makes it difficult for observers to understand and compare the data effectively.
+
+3. **Lack of Interactivity:** The existing data lacks dynamic effects and interactivity, making it challenging for observers to engage with and comprehend the relationships and trends between different players.
+
+Our project aims to address these challenges by focusing on processing and visualizing the shooting data of popular NBA players during the 2023 season. We strive to highlight key performance metrics such as shot attempts, accuracy, scoring patterns, and other relevant statistics through visually appealing charts. Our target audience includes NBA enthusiasts, analysts, fans, and others interested in gaining deeper insights into player dynamics. By providing interactive and informative visualizations, we aim to enable our audience to better understand and analyze athlete performance.  
+
 
 ### Exploratory Data Analysis
 
